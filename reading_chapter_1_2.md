@@ -27,5 +27,3 @@
 `$obj->firstName === $firstName;`
 
 - 値オブジェクトにする基準は？
-
-- 
